@@ -12,6 +12,12 @@ The CV Project offers a streamlined recruitment experience, allowing recruiters 
 - **Efficient Recruitment:** Easily navigate and explore sections of interest, saving time and enhancing the overall recruitment process.
 - **Enhanced Insight:** Multimedia features provide recruiters with a deeper understanding of candidates, extending beyond traditional textual information.
 
+## For Applicants
+
+- **Ready-Made Design:** The CV's pre-designed format removes the need for intricate formatting, allowing applicants to focus on content creation.
+- **Seamless Content Focus:** Applicants can concentrate on crafting compelling content without worrying about page limits, as recruiters can selectively view sections of interest.
+
+
 ## Getting Started
 
 For a live demonstration, visit [CV Project Demo](https://cv-project-demo.onrender.com/).
