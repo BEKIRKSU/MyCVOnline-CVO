@@ -20,4 +20,4 @@ The CV Project offers a streamlined recruitment experience, allowing recruiters 
 
 ## Getting Started
 
-For a live demonstration, visit [CV Project Demo](https://cv-project-demo.onrender.com/).
+For a live demonstration, visit [CV Project Demo]https://cvo.onrender.com/.
