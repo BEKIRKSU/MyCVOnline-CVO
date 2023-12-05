@@ -43,7 +43,7 @@
 .contact-details {
   display: flex;
   flex-direction: column;
-  padding-left: 25px;
+  padding-left: 50px;
   padding-right: 100px;
 }
 .edit-button,
